@@ -28,7 +28,7 @@ Today we’ll be looking at a draft glossary of terms being created across the D
 *While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. A good place to start to find discussion topics are on the [SATRE Specification GitHub Repository Issue Board](https://github.com/sa-tre/satre-specification/issues).*
 
 
- **Today's Theme:** Glossaries and Terminologies - [Google Doc here](https://docs.google.com/document/d/1SJ6CJG8yHzsvtU7MyzdNOF_S0fZVJb_i/edit)
+ **Today's Theme:** Glossaries and Terminologies - [Doc here](./20230704-google_doc_suggestions_dareuk_shared_project_glossary.pdf)
 
  All work from this Collab Cafe was done on the above Google Doc
 
