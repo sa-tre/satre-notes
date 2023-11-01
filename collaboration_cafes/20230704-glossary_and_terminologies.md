@@ -48,4 +48,4 @@ Today we’ll be looking at a draft glossary of terms being created across the D
     - Get general agreement from across TRE community that terms make sense
     - Have it as a living document that can be versioned by e.g. GitHub
     - Don't overcomplicate the ontology. Some are so interconnected that they're not really usable anymore, and too difficult to navigate. Don't go too far in that direction, still needs to be something that everyone can use/contribute to.
-    - 
+    
