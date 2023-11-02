@@ -10,7 +10,7 @@
 | 20 April | 15:00 - 16:00 | Hari Sood (hsood@turing.ac.uk) | [Link to notes](./20230419-general.md) | |
 | 02 May | 15:00 - 16:00 | Simon Li (s.p.li@dundee.ac.uk) | [Link to notes](./20230502-general.md) | |
 | 18 May | 15:00 - 16:00 | Arron Lacey (alacey@turing.ac.uk) | [Link to notes](./20230518-survey_share_out.md) | Survey share-out |
-| 06 June | 15:00 - 16:00 | Hari Sood (hsood@turing.ac.uk) |[Link to notes](./20230606-information_goevrnance.md) | Information Governance |
+| 06 June | 15:00 - 16:00 | Hari Sood (hsood@turing.ac.uk) |[Link to notes](./20230606-information_governance.md) | Information Governance |
 | 15 June | 15:00 - 16:00 | Arron Lacey (alacey@turing.ac.uk) | [Link to notes](./20230615-ppie.md) | PPIE |
 | 04 July | 15:00 - 16:00 | Hari Sood (hsood@turing.ac.uk) | [Link to Notes](./20230704-glossary_and_terminologies.md) | Glossaries and terminology |
 | 20 July | 15:00 - 16:00 | Hari Sood (hsood@turing.ac.uk) |[Link to Notes](./) | Usability & implementation |
